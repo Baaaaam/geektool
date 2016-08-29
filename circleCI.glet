@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DisplayID</key>
+	<integer>478170126</integer>
+	<key>GeekletFrame</key>
+	<string>{{0, 0}, {227, 333}}</string>
+	<key>HasShadow</key>
+	<false/>
+	<key>Identifier</key>
+	<string>org.tynsoe.geeklet.web</string>
+	<key>KeepOnTop</key>
+	<false/>
+	<key>Name</key>
+	<string>ci-testing</string>
+	<key>Opacity</key>
+	<real>1</real>
+	<key>RefreshInterval</key>
+	<integer>1</integer>
+	<key>RelativePosition</key>
+	<integer>1</integer>
+	<key>Script</key>
+	<string>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;body&gt;
+&lt;h4&gt;&lt;font color="white"&gt;Cyclus&lt;/h4&gt;
+&lt;font color="white"&gt;  &amp;nbsp;develop &lt;/font&gt; &lt;img src="https://circleci.com/gh/cyclus/cyclus/tree/develop.png?&amp;circle-token= 35d82ba8661d4f32e0f084b9d8a2388fa62c0262" height="15" align="left" align="top"&gt;
+&lt;/p&gt;
+&lt;font color="white"&gt;  &amp;nbsp;master &lt;/font&gt; &lt;img src="https://circleci.com/gh/cyclus/cyclus/tree/master.png?&amp;circle-token= 35d82ba8661d4f32e0f084b9d8a2388fa62c0262" height="15" align="left" align="top"&gt;
+&lt;/p&gt;
+&lt;font color="white"&gt;  &amp;nbsp;circle-ci &lt;/font&gt; &lt;img src="https://circleci.com/gh/cyclus/cyclus/tree/ci-testing.png?&amp;circle-token= 35d82ba8661d4f32e0f084b9d8a2388fa62c0262" height="15" align="left" align="top"&gt;
+
+
+&lt;h4&gt;&lt;font color="white"&gt;Cycamore&lt;/h4&gt;
+&lt;font color="white"&gt;  &amp;nbsp;develop &lt;/font&gt; &lt;img src="https://circleci.com/gh/cyclus/cycamore/tree/develop.png?&amp;circle-token= 333211090d5d5a15110eed1adbe079a6f3a4a704" height="15" align="left" align="top"&gt;
+&lt;/p&gt;
+&lt;font color="white"&gt;  &amp;nbsp;master &lt;/font&gt; &lt;img src="https://circleci.com/gh/cyclus/cycamore/tree/master.png?&amp;circle-token= 333211090d5d5a15110eed1adbe079a6f3a4a704" height="15" align="left" align="top"&gt;
+&lt;/p&gt;
+&lt;font color="white"&gt;  &amp;nbsp;deb_generation &lt;/font&gt; &lt;img src="https://circleci.com/gh/cyclus/cycamore/tree/deb_generation.png?&amp;circle-token= 333211090d5d5a15110eed1adbe079a6f3a4a704" height="15" align="left" align="top"&gt;
+
+
+&lt;/body&gt;
+&lt;/html&gt;
+</string>
+	<key>URL</key>
+	<string>https://circleci.com/gh/cyclus/cyclus/tree/ci-testing.png?&amp;circle-token= 35d82ba8661d4f32e0f084b9d8a2388fa62c0262</string>
+	<key>WebGeekletType</key>
+	<integer>1</integer>
+	<key>Zoom</key>
+	<real>0.83381600215517238</real>
+</dict>
+</plist>
